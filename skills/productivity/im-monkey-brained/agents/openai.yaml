@@ -1,0 +1,4 @@
+interface:
+  display_name: "Im-monkey-brained"
+  short_description: "Answer with an interactive visual TLDR instead of a block of text"
+  default_prompt: "Use $im-monkey-brained to show me this as a visual TLDR."

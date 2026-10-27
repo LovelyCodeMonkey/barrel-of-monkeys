@@ -1,0 +1,14 @@
+{
+  "name": "lovelycodemonkey",
+  "owner": { "name": "LovelyCodeMonkey", "url": "https://github.com/LovelyCodeMonkey" },
+  "description": "Agent skills for monkey brains, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "barrel-of-monkeys",
+      "source": "./",
+      "description": "Agent skills for monkey brains: answers you can look at and play with instead of walls of text.",
+      "category": "productivity",
+      "keywords": ["skills", "accessibility", "adhd", "dyslexia", "visual", "tldr"]
+    }
+  ]
+}

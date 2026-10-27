@@ -1,0 +1,12 @@
+{
+  "name": "barrel-of-monkeys",
+  "version": "0.1.0",
+  "description": "Agent skills for monkey brains: answers you can look at and play with instead of walls of text.",
+  "author": { "name": "LovelyCodeMonkey", "url": "https://github.com/LovelyCodeMonkey" },
+  "repository": "https://github.com/LovelyCodeMonkey/barrel-of-monkeys",
+  "license": "MIT",
+  "keywords": ["skills", "accessibility", "adhd", "dyslexia", "visual", "tldr"],
+  "skills": [
+    "./skills/productivity/im-monkey-brained"
+  ]
+}
