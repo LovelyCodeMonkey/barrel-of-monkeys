@@ -2,8 +2,6 @@
 
 Agent skills for monkey brains. Straight from my own setup, for Claude Code, Codex and any agent that reads skills.
 
-![im-monkey-brained answering "rebase or merge?" in T3 Code: switching between merge, rebase and squash, then stepping through the team flow](./assets/demo.gif)
-
 ## Installation
 
 A plugin updates itself. [skills.sh](https://skills.sh) copies editable files into your project, and you update them
@@ -41,6 +39,8 @@ To update, run `npx skills@latest update`.
 
   It shows inside the chat in T3 Code and the Codex app, and as a page in Claude Code. Agents without a visualizer
   give the same structure in tidy markdown.
+
+  ![im-monkey-brained answering "rebase or merge?": switching between merge, rebase and squash, then stepping through the team flow](./assets/im-monkey-brained/demo.gif)
 
   To get it on every long answer, add this to your `~/.claude/CLAUDE.md` or `~/.codex/AGENTS.md`:
 
