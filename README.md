@@ -2,6 +2,8 @@
 
 Agent skills for monkey brains. Straight from my own setup, for Claude Code, Codex and any agent that reads skills.
 
+![im-monkey-brained answering "rebase or merge?" in T3 Code: switching between merge, rebase and squash, then stepping through the team flow](./assets/demo.gif)
+
 ## Installation
 
 A plugin updates itself. [skills.sh](https://skills.sh) copies editable files into your project, and you update them
