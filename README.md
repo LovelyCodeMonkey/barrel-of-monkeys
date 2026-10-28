@@ -7,36 +7,27 @@ Agent skills for monkey brains. Straight from my own setup, for Claude Code, Cod
 A plugin updates itself. [skills.sh](https://skills.sh) copies editable files into your project, and you update them
 by hand. Pick one per agent, because installing both gives you every skill twice.
 
-<details>
-<summary><b>Claude Code</b></summary>
+### Claude Code
 
 ```bash
 claude plugin marketplace add LovelyCodeMonkey/barrel-of-monkeys
 claude plugin install barrel-of-monkeys@lovelycodemonkey
 ```
 
-</details>
-
-<details>
-<summary><b>Codex</b></summary>
+### Codex
 
 ```bash
 codex plugin marketplace add LovelyCodeMonkey/barrel-of-monkeys
 codex plugin add barrel-of-monkeys@lovelycodemonkey
 ```
 
-</details>
-
-<details>
-<summary><b>Any other agent</b> (Cursor, OpenCode, Windsurf, ...)</summary>
+### Any other agent (Cursor, OpenCode, Windsurf, ...)
 
 ```bash
 npx skills@latest add LovelyCodeMonkey/barrel-of-monkeys
 ```
 
 To update, run `npx skills@latest update`.
-
-</details>
 
 ## Skills
 
